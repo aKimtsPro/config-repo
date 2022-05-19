@@ -1,2 +1,5 @@
 server:
   port: 8282
+
+
+message: "je suis en développement"
